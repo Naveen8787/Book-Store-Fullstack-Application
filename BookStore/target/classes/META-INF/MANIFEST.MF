@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Naveen
+Build-Jdk: 11.0.2
+Implementation-Title: BookStore
+Implementation-Version: 2.0.1.RELEASE
+Implementation-Vendor-Id: com.Spring-boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/BookStore
+Created-By: Maven Integration for Eclipse
+
